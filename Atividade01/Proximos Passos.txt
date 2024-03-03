@@ -1,0 +1,11 @@
+﻿
+
+Para exercitar mais:
+
+	- Nao deixar cadastrar usuario com email repetido
+	- Nao deixar cadastrar evento onde a data final é menor que a data inicial
+	  (opcional: inverter as datas automaticamente)
+	- Deixar usuario alterar a senha
+	- Separar as telas de listagem dos eventos passado/presente/futuro
+	- Nao deixar escolher um evento passado pra participar
+
